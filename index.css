@@ -1,0 +1,101 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.footer.text-center {
+    background-color: #2f2f2f;
+    color: white;
+    margin-top: 100px;
+}
+
+.daibang3 h3 {
+    padding: 70px;
+    font-size: 24px;
+    color: #555555;
+}
+
+.footer h3 {
+    font-size: 18px;
+    color: white;
+    padding: 70px;
+    margin-bottom: 0px;
+}
+
+.anh1 {
+    padding: 0 25px;
+}
+
+.daibang2 h3 {
+    padding-bottom: 40px;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+a.nav-link {margin-right: 20px;letter-spacing: 3px;}
+
+a.btn.btn-default {
+    color: black;
+    background-color: white;
+    padding: 11px 30px;
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+a.btn.btn-default:hover {
+    color: black;
+    background-color: #e6e6e6;
+}
+
+.daibang2 {
+    color: white;
+    background-color: #474e5d;
+    padding: 80px;
+}
+
+.daibang h3 {
+    padding-bottom: 60px;
+    color: white;
+    margin: 0;
+    font-size: 24px;
+}
+
+.daibang h1 {
+    padding-top: 50px;
+    color: white;
+    font-size: 24px;
+}
+
+.daibang {
+    background-color: #1abc9c;
+}
+
+.chimdaibang {
+    border-radius: 50%;
+    padding: 65px 0;
+}
+
+.anh {
+    border-radius: 50%;
+}
+
+.navbar-brand {
+    padding: 20px 0;
+    color: white;
+}
+
+.navbar-light .navbar-brand {
+    color: #000000;
+    font-weight: 200;
+}
+
+div#collapsibleNavId {
+    padding-left: 855px;
+}
+.header{
+    background-color: white;
+}
